@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 import i18n from 'i18n'
+import validator from 'validator'
 import cors from 'cors'
 import fs from 'node:fs'
 import yaml from 'js-yaml'
